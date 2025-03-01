@@ -1,16 +1,36 @@
-## Hi there 👋
+# Oh, hello there 👋
 
-<!--
-**madeinheaven91/madeinheaven91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Everybody calls me Heaven. I'm a russian IT guy.
+<br>
+<br>
 
-Here are some ideas to get you started:
+## Fields of endeavour
+<img align="right" alt="me" src="https://sitecorehacker.files.wordpress.com/2017/11/trollface.jpg?w=360"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><h3>Programming</h3>
+      🖥️ Backend development <br>
+      🤖 Telegram bot development <br>
+      🐙 Web scraper development
+  </li>
+  <li><h3>Humanities</h3>
+      🤔 Philosophy <br>
+      💸 Business <br>
+      👽 Memeing <br>
+      🎷 Jazz
+  </li>
+</ul>
+<br>
+<br>
+
+## Languages and tools
+<p>
+  <img alt="rust" src="https://img.shields.io/badge/Rust-fc7820?logo=rust"></img>
+  <img alt="python" src="https://img.shields.io/badge/Python-fcf820?logo=python"></img>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-fcf820?logo=javascript&logoColor=111111"></img>
+</p>
+
+## Contacts
+<p>
+  <a href="https://t.me/madeinheaven91" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/%40madeinheaven91-555555?logo=telegram&logoColor=ffffff&label=Telegram&labelColor=5eb4f9&link=t.me%2Fmadeinheaven91"></a>
+</p>
